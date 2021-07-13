@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>aaronjianlanwang.github.io/2019/12/29/The-Paradox-of-Our-Age/</loc>
+    
+    <lastmod>2021-07-13</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>aaronjianlanwang.github.io/2020/08/29/%E8%A9%AD%E8%BE%AF/</loc>
     
     <lastmod>2021-07-13</lastmod>
@@ -26,13 +33,6 @@
     <loc>aaronjianlanwang.github.io/2021/07/10/linux%20ref%20sheet/</loc>
     
     <lastmod>2021-07-13</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>aaronjianlanwang.github.io/2019/12/29/The%20Paradox%20of%20Our%20Age%20/</loc>
-    
-    <lastmod>2020-09-09</lastmod>
     
   </url>
   
@@ -95,34 +95,6 @@
 
   
   <url>
-    <loc>aaronjianlanwang.github.io/tags/Technical/</loc>
-    <lastmod>2021-07-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>aaronjianlanwang.github.io/tags/Ref-Page/</loc>
-    <lastmod>2021-07-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>aaronjianlanwang.github.io/tags/Ubuntu/</loc>
-    <lastmod>2021-07-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>aaronjianlanwang.github.io/tags/Linux/</loc>
-    <lastmod>2021-07-13</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>aaronjianlanwang.github.io/tags/%F0%9F%A6%90%EF%B8%8F%E6%89%AF%F0%9F%A5%9A%EF%B8%8F/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
@@ -158,7 +130,35 @@
   </url>
   
   <url>
+    <loc>aaronjianlanwang.github.io/tags/Technical/</loc>
+    <lastmod>2021-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>aaronjianlanwang.github.io/tags/Ref-Page/</loc>
+    <lastmod>2021-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>aaronjianlanwang.github.io/tags/MD/</loc>
+    <lastmod>2021-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>aaronjianlanwang.github.io/tags/Linux/</loc>
+    <lastmod>2021-07-13</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>aaronjianlanwang.github.io/tags/Ubuntu/</loc>
     <lastmod>2021-07-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
